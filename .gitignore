@@ -1,0 +1,32 @@
+# 移植产物与编译中间文件
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvguix
+*.axf
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.map
+*.lst
+*.sct
+*.iex
+*.bak
+*.__i
+*.build_log.htm
+
+# 编辑器 / 系统
+.vscode/settings.json
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 保留
+!.gitignore
+!README.md
